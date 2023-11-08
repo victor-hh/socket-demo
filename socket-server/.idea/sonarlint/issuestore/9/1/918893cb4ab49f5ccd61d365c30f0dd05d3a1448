@@ -1,0 +1,14 @@
+
+g
+java:S2095K"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(ÕÕ££8ôÀø‰»1
+g
+java:S2095<"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(ë²î¦8ôÀø‰»1
+]	java:S125"<This block of commented-out lines of code should be removed.(óÒ¥Öûÿÿÿÿ8æ¡Ë‰»1
+G	java:S106="+Replace this use of System.out by a logger.(¿Áû¾8ı»Ì‰»1
+G	java:S106B"+Replace this use of System.out by a logger.(œƒÙ¸8ş»Ì‰»1
+X	java:S125G"<This block of commented-out lines of code should be removed.(ù³³õ8è”ó‰»1
+G	java:S106M"+Replace this use of System.out by a logger.(ŞÚÌØ8€¼Ì‰»1
+U
+java:S1128"3Remove this unused import 'java.net.SocketAddress'.(ìÜˆ©ıÿÿÿÿ8ıÀø‰»1
+H
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8ıÀø‰»1

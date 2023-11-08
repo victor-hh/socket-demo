@@ -1,0 +1,10 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Ä¾áúÿÿÿÿ
+_
+java:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.(¡™œÿÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ğÂ¦¦ùÿÿÿÿ
+]	java:S125!"<This block of commented-out lines of code should be removed.(×ëÁœûÿÿÿÿ8É«íİ¹1
+Y
+java:S1128"7Remove this unused import 'java.io.ObjectOutputStream'.(é»Óºûÿÿÿÿ8–ÕµŞ¹1
